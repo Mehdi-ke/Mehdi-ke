@@ -17,7 +17,7 @@ A site operative describes their day in plain English or by voice.
 The app generates a complete, formally structured 16-section site report 
 in seconds — with optional AI analysis of an uploaded site photo.
 
-[Live App](https://site-report-app.up.railway.app) · [Repository](https://github.com/Mehdi-ke/site-report-app)
+[Live App](https://web-production-89329.up.railway.app/) · [Repository](https://github.com/Mehdi-ke/site-report-app)
 
 ---
 ## Background
