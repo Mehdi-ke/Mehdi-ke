@@ -24,7 +24,8 @@ in seconds — with optional AI analysis of an uploaded site photo.
 
 - Estimating and tendering — pricing strategy, bill preparation, subcontractor procurement
 - BIM coordination — model management, clash detection, M&E coordination
-- Contract management — JCT and NEC, variations, payment notices, early warnings
+- Construction project management — JCT and NEC, variations, payment notices, early warnings
+- Civil engineering
 - Currently building AI tools for the construction industry using Python, Flask, and the Anthropic Claude API
 
 ---
