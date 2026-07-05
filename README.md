@@ -3,7 +3,7 @@
 # Mehdi — Construction AI Tools
 
 I'm a UK construction professional with 15+ years of experience in estimating, 
-tendering, BIM coordination, M&E, and JCT/NEC contract management.
+tendering, BIM coordination, M&E, Civil engineering and Project management.
 
 I build AI-powered tools that solve real problems for construction teams — 
 tools designed by someone who has worked in the industry, not around it.
