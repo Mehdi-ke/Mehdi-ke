@@ -9,15 +9,26 @@ I build AI-powered tools that solve real problems for construction teams —
 tools designed by someone who has worked in the industry, not around it.
 
 ---
+## 🏗️ Mate — Construction AI Platform
 
-## Live Tools
+**My flagship project: a unified platform bringing AI tools for construction 
+under one roof.**
 
-### 🏗️ Site Report Generator
-A site operative describes their day in plain English or by voice. 
-The app generates a complete, formally structured 16-section site report 
-in seconds — with optional AI analysis of an uploaded site photo.
+Mate houses purpose-built tools for site teams, estimators, and commercial 
+staff — all mobile-first, all in one place, no installation needed. Built as 
+a single Flask application using a modular Blueprint architecture, so new tools 
+plug in cleanly as the platform grows.
 
-[Live App](https://web-production-89329.up.railway.app/) · [Repository](https://github.com/Mehdi-ke/site-report-app)
+**Tools currently inside Mate:**
+- **Site Report Generator** — turn a spoken or typed description of a shift into 
+  a formal 16-section site report in seconds, with AI photo analysis
+- **Construction AI Assistant** — UK-calibrated answers on contracts, estimating, 
+  BIM, and site management
+
+[🔗 Live Platform](https://mate-construction.up.railway.app) · [Repository](https://github.com/Mehdi-ke/Mate)
+
+---
+
 
 ---
 ## Background
